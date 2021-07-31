@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Montenegro",
+      "id": "Q236"
+    },
+    "cabinet": {
+      "id": "Q101252425",
+      "start": "2020-12-04",
+      "parent": "Q107736267"
+    },
+    "source": {
+        "url":   "https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro",
+        "title": "The Cabinet of Montenegro",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/montenegro-cabinet"
+}
