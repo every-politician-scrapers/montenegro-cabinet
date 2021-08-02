@@ -1,7 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q105585422,Aleksandar Stijović,Aleksandar Stijović,male,1981-01-27T00:00:00Z,11,https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro,Q107740253,"Minister of Agriculture, Forestry and Water Management",Q105585422-269B3B7A-5DE4-4919-9B8F-B2CC4FC546C9
-Q16353146,Dritan Abazović,Dritan Abazović,male,1985-12-25T00:00:00Z,11,,Q17073595,Deputy Prime Minister of Montenegro,Q16353146-7A591E90-B2BC-4AAC-ADB9-8390053B2BB3
-Q107740208,Jelena Borovinić-Bojović,Jelena Borovinić-Bojović,female,,,https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro,Q107740255,Minister of Health,Q107740208-9B7B9C5F-9291-42BA-AD86-EC68F401BA70
+Q16353146,Dritan Abazović,Dritan Abazović,male,1985-12-25T00:00:00Z,11,https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro,Q17073595,Deputy Prime Minister of Montenegro,Q16353146-7A591E90-B2BC-4AAC-ADB9-8390053B2BB3
+Q107740208,Jelena Borovinić-Bojović,Jelena Borovinić-Bojović,female,1975-08-29T00:00:00Z,11,https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro,Q107740255,Minister of Health,Q107740208-9B7B9C5F-9291-42BA-AD86-EC68F401BA70
 Q101225458,Milojko Spajić,Milojko Spajić,male,1988-01-01T00:00:00Z,9,https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro,Q107740239,Minister of Finance and Social Welfare,Q101225458-3b71110e-4ed5-8094-b001-35a8c2c4ddf5
 Q50703477,Mladen Bojanić,Mladen Bojanić,male,1962-11-14T00:00:00Z,11,https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro,Q107740256,Minister of Capital Investments,Q50703477-77020749-6A68-491E-B0B4-A63A478CCFD7
 Q104597629,Olivera Injac,Olivera Injac,female,1976-01-01T00:00:00Z,9,https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro,Q107740257,Minister of Defence,Q104597629-4E22CBAD-1F2C-42CD-B0D1-A84C4D7866E3
