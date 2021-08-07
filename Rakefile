@@ -15,9 +15,4 @@ task :rubocop do
   RuboCop::RakeTask.new
 end
 
-desc 'Run reek'
-Reek::Rake::Task.new do |t|
-  t.fail_on_error = true
-end
-
-task default: %i[test rubocop reek]
+task default: %i[test rubocop]
