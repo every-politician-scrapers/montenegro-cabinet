@@ -8,7 +8,7 @@ require 'pry'
 class MemberList
   class Member
     def name
-      Name.new(full: noko['title'], prefixes: %w[Msc prof. dr mr]).short
+      Name.new(full: noko['title'], prefixes: %w[Msc prof. dr mr MS MBA]).short
     end
 
     def position
