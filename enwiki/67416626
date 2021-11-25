@@ -1,0 +1,94 @@
+{
+  "title": "Milutin Đurović",
+  "pageID": 67416626,
+  "categories": [
+    "Montenegrin military personnel",
+    "Montenegrin generals",
+    "Living people",
+    "People from Bijelo Polje",
+    "1974 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Milutin Đurović (Cyrillic: Милутин Ђуровић; born 29 January 1974) is a Montenegrin brigadier general and the Chief of the General Staff of the Armed Forces of Montenegro since 16 April 2021.",
+              "links": [
+                {
+                  "text": "Cyrillic",
+                  "type": "internal",
+                  "page": "Cyrillic script"
+                },
+                {
+                  "text": "brigadier general",
+                  "type": "internal",
+                  "page": "brigadier general"
+                },
+                {
+                  "text": "Chief of the General Staff",
+                  "type": "internal",
+                  "page": "Chief of the General Staff (Montenegro)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Armed Forces of Montenegro"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Milutin Đurović"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Đurović izabran za novog načelnika Generalštaba Vojske Crne Gore - CdM",
+          "url": "https://m.cdm.me/politika/durovic-izabran-za-novog-nacelnika-generalstaba-vojske-crne-gore/",
+          "access-date": "2021-04-16",
+          "website": "m.cdm.me",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Đurović izabran za novog načelnika Generalštaba Vojske Crne Gore, Dakić razriješen",
+          "url": "https://www.vijesti.me/vijesti/politika/530827/djurovic-izabran-za-novog-nacelnika-generlastaba-vojske-crne-gore",
+          "access-date": "2021-04-16",
+          "website": "vijesti.me",
+          "language": "sr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Војводине",
+          "first": "Јавна медијска установаЈМУ Радио-телевизија",
+          "title": "Milutin Đurović izabran za novog načelnika Generalštaba Vojske Crne Gore",
+          "url": "http://www.rtv.rs/sr_ci/region/milutin-djurovic-izabran-za-novog-nacelnika-generalstaba-vojske-crne-gore_1230153.html",
+          "access-date": "2021-04-16",
+          "website": "ЈМУ Радио-телевизија Војводине",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "montenegro-bio-stub"
+        },
+        {
+          "template": "europe-mil-bio-stub"
+        }
+      ]
+    }
+  ]
+}
