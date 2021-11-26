@@ -3775,147 +3775,6 @@
       ]
     },
     {
-      "title": "2021 Cetinje enthronement crisis",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In the course of the political crisis and unrest provoked by the controversial enthronement of Joanikije Mićović of the Serbian Orthodox Church as the Metropolitan of Montenegro and the Littoral that culminated in early September 2021, Đukanović came out in support of the proposal that the Metropolitan′s ceremonial installation, for reasons of public peace and security, be held at a location other than the historic Cetinje Monastery such as, for instance, at the Resurrection Cathedral in Podgorica.",
-              "links": [
-                {
-                  "text": "unrest provoked by the controversial enthronement",
-                  "type": "internal",
-                  "page": "2021 Montenegrin episcopal enthronement protests"
-                },
-                {
-                  "text": "Joanikije Mićović",
-                  "type": "internal",
-                  "page": "Joanikije II, Metropolitan of Montenegro"
-                },
-                {
-                  "type": "internal",
-                  "page": "Serbian Orthodox Church"
-                },
-                {
-                  "text": "Metropolitan of Montenegro and the Littoral",
-                  "type": "internal",
-                  "page": "Metropolitanate of Montenegro and the Littoral"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cetinje Monastery"
-                },
-                {
-                  "text": "Resurrection Cathedral",
-                  "type": "internal",
-                  "page": "Cathedral of the Resurrection of Christ, Podgorica"
-                }
-              ]
-            },
-            {
-              "text": "On 26 August, he chaired a session of the Defence and Security Council with all top officials of Montenegro attending."
-            },
-            {
-              "text": "The Council session addressed the \"security challenges caused by the announced enthronement of the Metropolitan of Montenegro and the Littoral\" and urged \"all socio-political actors\" to keep peace and respect the Constitution and laws.",
-              "links": [
-                {
-                  "text": "Constitution",
-                  "type": "internal",
-                  "page": "Constitution of Montenegro"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 4 September, on the eve of the scheduled enthronement, Đukanović arrived in the town of Cetinje along with some of his DPS colleagues, having previously said he would attend the protests unless the Serbian Church leadership had moved the ceremony elsewhere.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cetinje"
-                }
-              ]
-            },
-            {
-              "text": "Following the enthronement in Cetinje that was, according to Đukanović, conducted as an airborne military operation, the president called it the government′s Pyrrhic victory and \"a great embarrassment of the Serbian Church and the government of Montenegro\"; he later elaborated saying that the enthronement came as another one in a series of episodes in the renewed offensive of Serbian nationalism on Montenegro, the Krivokapić administration being \"in the service of the Church of Serbia, which is an instrument for implementing the Greater Serbia project, the official state policy of Belgrade\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pyrrhic victory"
-                },
-                {
-                  "type": "internal",
-                  "page": "Serbian nationalism"
-                },
-                {
-                  "text": "Krivokapić administration",
-                  "type": "internal",
-                  "page": "Krivokapić Cabinet"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "date": "4 September 2021",
-          "title": "Nadam se da će crkva postupiti razumno",
-          "url": "http://www.rtcg.me/vijesti/politika/333555/nadam-se-da-ce-crkva-postupiti-razumno.html",
-          "website": "RTCG",
-          "language": "cnr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "4 September 2021",
-          "title": "Press release from Defence and Security Council's session",
-          "url": "https://www.gov.me/en/article/press-release-from-defence-and-security-councils-session",
-          "website": "www.gov.me",
-          "publisher": "Government of Montenegro",
-          "language": "cnr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "4 September 2021",
-          "title": "Protesti i liturgija uoči ustoličenja Joanikija, blokirani prilazi Cetinju",
-          "url": "https://www.glasamerike.net/a/crna-gora-cetinje-srpska-pravoslavna-crkva-spc-ustolicenje-mitropolit-protesti/6212365.html",
-          "website": "Voice of America",
-          "language": "sr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "28 August 2021",
-          "title": "Biću na Cetinju ako ne promijene mjesto ustoličenja",
-          "url": "http://www.rtcg.me/vijesti/politika/332856/bicu-na-cetinju-ako-ne-promijene-mjesto-ustolicenja.html",
-          "website": "RTCG",
-          "language": "cnr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "5 September 2021",
-          "title": "Đukanović o ustoličenju Joanikija: Sramota SPC i Vlade Crne Gore",
-          "url": "https://www.slobodnaevropa.org/a/djukanovic-ustolicenje-joanikije/31444534.html",
-          "website": "Radio Free Europe/Radio Liberty",
-          "language": "cnr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
       "title": "Timeline",
       "depth": 0,
       "paragraphs": [
@@ -3932,7 +3791,7 @@
       ]
     },
     {
-      "title": "Controversy",
+      "title": "Controversies",
       "depth": 0,
       "paragraphs": [
         {
@@ -4467,13 +4326,12 @@
                   "page": "Serbian Orthodox Church in Montenegro"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In February 2020 Đukanović called the citizens protesting against the newly proclaimed religion law \"a lunatic movement\"."
+            },
+            {
+              "text": "The religion law is seen as a major factor in Đukanović and the DPS' defeat during the 2020 elections."
             }
           ]
         }
@@ -4557,6 +4415,233 @@
           "access-date": "13 February 2020",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last1": "Savic",
+          "first1": "Misha",
+          "title": "Montenegro Changes Law That Angered Serbs and Helped Power Shift",
+          "url": "https://www.bloomberg.com/news/articles/2020-12-29/montenegro-changes-law-that-angered-serbs-and-helped-power-shift",
+          "work": "Bloomberg",
+          "date": "29 December 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Cetinje enthronement crisis",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After it was announced that the enthronement ceremony of Joanikije Mićović of the Serbian Orthodox Church as the Metropolitan of Montenegro and the Littoral would be held in Cetinje, the Church's ecclesiastical seat, on 5 September 2021, Đukanović called for the ceremony to be held elsewhere and stated that he would be present at the protest that day unless this was done.",
+              "links": [
+                {
+                  "text": "enthronement",
+                  "type": "internal",
+                  "page": "2021 Montenegrin episcopal enthronement protests"
+                },
+                {
+                  "text": "Joanikije Mićović",
+                  "type": "internal",
+                  "page": "Joanikije II, Metropolitan of Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Serbian Orthodox Church"
+                },
+                {
+                  "text": "Metropolitan of Montenegro and the Littoral",
+                  "type": "internal",
+                  "page": "Metropolitanate of Montenegro and the Littoral"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cetinje"
+                }
+              ]
+            },
+            {
+              "text": "On 26 August, he chaired a session of the Defence and Security Council with all top officials of Montenegro attending."
+            },
+            {
+              "text": "The Council session addressed the \"security challenges caused by the announced enthronement of the Metropolitan of Montenegro and the Littoral\" and urged \"all socio-political actors\" to keep peace and respect the Constitution and laws.",
+              "links": [
+                {
+                  "text": "Constitution",
+                  "type": "internal",
+                  "page": "Constitution of Montenegro"
+                }
+              ]
+            },
+            {
+              "text": "On 4 September, on the eve of the scheduled enthronement, Đukanović arrived in the town of Cetinje along with some of his DPS colleagues.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cetinje"
+                }
+              ]
+            },
+            {
+              "text": "Both the Metropolitan and the Patriarch were flown to Cetinje by helicopter and then led into the monastery by heavily armed riot police holding bulletproof vests over their bodies to protect them, as riot police used tear gas to disperse protesters who hurled rocks and bottles at them and fired guns into the air."
+            },
+            {
+              "text": "No fewer than 20 people were injured and police arrested more than a dozen people, including the security advisor to Đukanović, Veselin Veljović."
+            },
+            {
+              "text": "Following the enthronement, Đukanović, called it the government′s Pyrrhic victory and \"a great embarrassment of the Serbian Church and the government of Montenegro\"; he later elaborated saying that the enthronement came as another one in a series of episodes in the renewed offensive of Serbian nationalism on Montenegro, the Krivokapić administration being \"in the service of the Church of Serbia, which is an instrument for implementing the \"Greater Serbia project\", the official state policy of Belgrade\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pyrrhic victory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Serbian nationalism"
+                },
+                {
+                  "text": "Krivokapić administration",
+                  "type": "internal",
+                  "page": "Krivokapić Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "Montenegrin officials accused Đukanović and his party of an \"attempted coup\" following the riots."
+            },
+            {
+              "text": "On 22 September, the Montenegrin parliament launched an inquiry to the Constitutional Court to rule if Đukanović had violated constitutional articles by backing the protesters."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2021 Montenegrin episcopal enthronement protests"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "title": "Protests as Montenegro’s new Orthodox head inaugurated",
+          "url": "https://www.aljazeera.com/news/2021/9/5/protests-as-montenegros-new-orthodox-head-inaugurated",
+          "work": "Al Jazeera",
+          "date": "5 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-09-05",
+          "title": "BLOG UŽIVO: Kamenice, suzavac, pucnji – završen čin ustoličenja na Cetinju",
+          "url": "https://rs.n1info.com/region/ustolicenje-joanikija-cetinje/",
+          "website": "N1",
+          "language": "bs",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Kajosevic",
+          "first1": "Samir",
+          "title": "Montenegro Opposition Accused of ‘Coup Attempt’ Over Cetinje Riots",
+          "url": "https://balkaninsight.com/2021/09/06/montenegro-opposition-accused-of-coup-attempt-over-cetinje-riots/",
+          "work": "Balkan Insight",
+          "date": "6 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Kajosevic",
+          "first1": "Samir",
+          "title": "Montenegro MPs Seek to Sanction President for Church Protests",
+          "url": "https://balkaninsight.com/2021/09/22/montenegro-mps-seek-to-sanction-president-for-church-protests/",
+          "work": "Balkan Insight",
+          "date": "22 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "4 September 2021",
+          "title": "Nadam se da će crkva postupiti razumno",
+          "url": "http://www.rtcg.me/vijesti/politika/333555/nadam-se-da-ce-crkva-postupiti-razumno.html",
+          "website": "RTCG",
+          "language": "cnr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "28 August 2021",
+          "title": "Biću na Cetinju ako ne promijene mjesto ustoličenja",
+          "url": "http://www.rtcg.me/vijesti/politika/332856/bicu-na-cetinju-ako-ne-promijene-mjesto-ustolicenja.html",
+          "website": "RTCG",
+          "language": "cnr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Montenegro Violence Was Reckless Gamble by Country's Former Rulers",
+          "url": "https://balkaninsight.com/2021/09/08/montenegro-violence-was-reckless-gamble-by-countrys-former-rulers/",
+          "website": "Balkan Insight",
+          "publisher": "BIRN",
+          "date": "8 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "4 September 2021",
+          "title": "Press release from Defence and Security Council's session",
+          "url": "https://www.gov.me/en/article/press-release-from-defence-and-security-councils-session",
+          "website": "www.gov.me",
+          "publisher": "Government of Montenegro",
+          "language": "cnr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "4 September 2021",
+          "title": "Protesti i liturgija uoči ustoličenja Joanikija, blokirani prilazi Cetinju",
+          "url": "https://www.glasamerike.net/a/crna-gora-cetinje-srpska-pravoslavna-crkva-spc-ustolicenje-mitropolit-protesti/6212365.html",
+          "website": "Voice of America",
+          "language": "sr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Milic",
+          "first1": "Predrag",
+          "title": "Police clash with opponents of Serbian church in Montenegro",
+          "url": "https://abcnews.go.com/Politics/wireStory/police-clash-opponents-serbian-church-montenegro-79847621",
+          "work": "ABC News",
+          "publisher": "Associated Press",
+          "date": "5 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-09-05",
+          "title": "Montenegro clashes as Serb Orthodox Church leader installed",
+          "url": "https://www.bbc.com/news/world-europe-58451372",
+          "website": "BBC",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "5 September 2021",
+          "title": "Đukanović o ustoličenju Joanikija: Sramota SPC i Vlade Crne Gore",
+          "url": "https://www.slobodnaevropa.org/a/djukanovic-ustolicenje-joanikije/31444534.html",
+          "website": "Radio Free Europe/Radio Liberty",
+          "language": "cnr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },

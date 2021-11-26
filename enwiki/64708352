@@ -722,9 +722,11 @@
                   "page": "Joanikije Mićović"
                 },
                 {
-                  "text": "Gojko Perović",
-                  "type": "internal",
-                  "page": ":sr:Gojko Perović"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "sr"
+                  }
                 }
               ]
             },
@@ -2523,9 +2525,6 @@
         {
           "sentences": [
             {
-              "text": "undefined    undefined undefined"
-            },
-            {
               "text": "On 21 September 2020, Radio Antena M internet portal published a video from the mid-1990s that has been circulating on Internet and in which Krivokapić is seen at a celebration along with Nikola Kavaja, a Serbian nationalist and anti-communist, known for his terrorist activities, as well as along the current Serbian ambassador to Montenegro Vladimir Božović and other known Serbian nationalist and Montenegrin Serb figures.",
               "links": [
                 {
@@ -2906,9 +2905,11 @@
                   "page": "Joanikije Mićović"
                 },
                 {
-                  "text": "Gojko Perović",
-                  "type": "internal",
-                  "page": ":sr:Gojko Perović"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "sr"
+                  }
                 }
               ]
             }
@@ -3197,9 +3198,11 @@
               "text": "Rector of the Theological Seminary in Cetinje, Gojko Perović called Krivokapić a humble man, a Christian in the best sense of the word.",
               "links": [
                 {
-                  "text": "Gojko Perović",
-                  "type": "internal",
-                  "page": ":sr:Gojko Perović"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "sr"
+                  }
                 }
               ]
             },

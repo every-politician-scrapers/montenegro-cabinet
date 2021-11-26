@@ -580,6 +580,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Gojko Perović",
+          "lan1": "sr",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "template": "citation",
