@@ -201,21 +201,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "2"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "montenegro-politician-stub"
-        }
-      ]
     }
   ]
 }

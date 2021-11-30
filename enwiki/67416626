@@ -77,18 +77,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "montenegro-bio-stub"
-        },
-        {
-          "template": "europe-mil-bio-stub"
-        }
-      ]
     }
   ]
 }

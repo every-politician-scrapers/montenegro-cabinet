@@ -186,18 +186,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "2"
-          ],
-          "template": "reflist"
-        }
-      ]
     }
   ]
 }
