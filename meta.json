@@ -9,11 +9,11 @@
       "parent": "Q107736267"
     },
     "source": {
-        "url":   "https://www.gov.me/en/government-of-montenegro/the-cabinet-of-montenegro",
-        "title": "The Cabinet of Montenegro",
+        "url":   "https://www.gov.me/vlada-crne-gore/sastav-vlade",
+        "title": "Sastav Vlade - Vlada Crne Gore",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "sh",
+            "wikidata": "Q8821"
         }
     },
     "agent": "every-politican-scrapers/montenegro-cabinet"
