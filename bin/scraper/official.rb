@@ -12,9 +12,9 @@ class MemberList
     end
 
     def position
-      return noko['function'] unless noko['function'] == 'Minister'
+      return noko['function'] unless noko['function'] =~ /^ministar(ka)?$/
 
-      body.sub('Ministry', 'Minister')
+      body.sub('Ministarstvo', noko['function'])
     end
 
     private
