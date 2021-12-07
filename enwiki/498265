@@ -319,7 +319,7 @@
           "list": [
             "Мило Ђукановић"
           ],
-          "template": "lang-cyrl"
+          "template": "lang-cnr"
         },
         {
           "transcription": "mǐːlo dʑǔkanoʋitɕ",
@@ -688,7 +688,13 @@
             ]
           },
           "name": {
-            "text": "Milo Đukanović Мило Ђукановић"
+            "text": "Milo Đukanović"
+          },
+          "native_name": {
+            "text": "Мило Ђукановић"
+          },
+          "native_name_lang": {
+            "text": "cnr"
           }
         }
       ],
