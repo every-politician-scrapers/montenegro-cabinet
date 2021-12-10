@@ -9,7 +9,8 @@
     "Government ministers of Montenegro",
     "University of Belgrade Faculty of Forestry alumni",
     "Serbs of Montenegro",
-    "Forestry engineers"
+    "Forestry engineers",
+    "Montenegrin people of Serbian descent"
   ],
   "sections": [
     {
@@ -146,11 +147,12 @@
             "text": "January 27, 1981"
           },
           "birth_place": {
-            "text": "Berane, SFR Yugoslavia\n(now Montenegro)",
+            "text": "SR Serbia, SFR Yugoslavia",
             "links": [
               {
+                "text": "SR Serbia",
                 "type": "internal",
-                "page": "Berane"
+                "page": "Socialist Republic of Serbia"
               },
               {
                 "type": "internal",
@@ -171,7 +173,7 @@
             "text": "Forestry engineer"
           },
           "nationality": {
-            "text": "Montenegrin"
+            "text": "Montenegrin, Serbian"
           }
         }
       ],
