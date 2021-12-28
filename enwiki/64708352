@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Zdravko Krivokapić (, ; born 4 September 1957) is the current prime minister of Montenegro, serving in the office since December 2020.",
+              "text": "Zdravko Krivokapić (, ; born 4 September 1957) is a Montenegrin mechanical engineering professor, writer, and politician serving as prime minister of Montenegro since December 2020.",
               "links": [
                 {
                   "text": "prime minister of Montenegro",
@@ -86,7 +86,11 @@
                   "page": "Serbian Orthodox Church"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "In August 2020, he was chosen as the ballot representative for the For the Future of Montenegro list which placed second in the 2020 parliamentary election.",
               "links": [
@@ -147,7 +151,7 @@
           "template": "short description"
         },
         {
-          "date": "June 2021",
+          "date": "December 2021",
           "template": "use dmy dates"
         },
         {
