@@ -204,24 +204,6 @@
             "text": "Economist, politician"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "date": "2020-12-04",
-          "title": "Montenegro Elects First Government Without Djukanovic Party",
-          "url": "https://balkaninsight.com/2020/12/04/montenegro-elects-first-government-without-djukanovic-party/",
-          "access-date": "2020-12-04",
-          "website": "Balkan Insight",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

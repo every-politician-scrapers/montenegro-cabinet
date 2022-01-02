@@ -174,15 +174,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.ucg.ac.me/skladiste/blog_7/objava_16970/fajlovi/Bilten%20442.pdf",
-          "title": "BILTEN Univerziteta Crne Gore",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

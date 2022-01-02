@@ -151,40 +151,6 @@
           "description": "Montenegrin lawyer and politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "date": "2020-12-04",
-          "title": "Montenegro Elects First Government Without Djukanovic Party",
-          "url": "https://balkaninsight.com/2020/12/04/montenegro-elects-first-government-without-djukanovic-party/",
-          "access-date": "2020-12-04",
-          "website": "Balkan Insight",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Sekuloviću Ministarstvo unutrašnjih poslova",
-          "url": "https://www.vijesti.me/vijesti/politika/489833/sekulovicu-ministarstvo-unutrasnjih-poslova",
-          "access-date": "2020-12-04",
-          "website": "vijesti.me",
-          "language": "sr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Isključeni PzP-ovac savjetnik predsjednika parlamenta",
-          "url": "https://www.pcnen.com/portal/2010/12/13/iskljuceni-pzp-ovac-savjetnik-predsjednika-parlamenta/",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

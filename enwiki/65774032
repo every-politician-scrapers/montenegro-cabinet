@@ -151,27 +151,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2020-12-04",
-          "title": "Montenegro Elects First Government Without Djukanovic Party",
-          "url": "https://balkaninsight.com/2020/12/04/montenegro-elects-first-government-without-djukanovic-party/",
-          "access-date": "2020-12-04",
-          "website": "Balkan Insight",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Đorđe Radulović – Minister of Foreign Affairs",
-          "url": "https://mvp.gov.me/en/ministry/minister?alphabet=lat",
-          "url-status": "live",
-          "access-date": "2020-12-07",
-          "website": "Ministry of Foreign Affairs",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
