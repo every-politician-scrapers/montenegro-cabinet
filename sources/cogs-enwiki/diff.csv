@@ -1,6 +1,5 @@
 @@,itemlabel,item,startdate,enddate
-+++,Jovan Lakčević,,2006-06-09,2008-02-06
-+++,Dragan Samardžić,,2008-02-06,2017-01-13
-+++,Ljubiša Jokić,Q6660916,2017-01-13,2017-10-17
-+++,Ilija Daković,,2017-10-17,2018-07-12
-+++,Dragutin Dakić,,2018-07-12,2021-04-16
+->,Jovan Lakčević,Q110584237->NULL,2006-06-09,2008-02-06
+->,Dragan Samardžić,Q110584232->NULL,2008-02-06,2017-01-13
+->,Ilija Daković,Q110584229->NULL,2017-10-17,2018-07-12
+->,Dragutin Dakić,Q110584218->NULL,2018-07-12,2021-04-16
