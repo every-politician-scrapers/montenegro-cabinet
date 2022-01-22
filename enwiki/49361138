@@ -67,6 +67,23 @@
               }
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January of 2022."
+            },
+            {
+              "text": "Dr Dritan Abazović, has been appointed as a member of the Advisory Board of the Institute for Freedom of Faith and Security in Europe (IFFSE).",
+              "links": [
+                {
+                  "text": "Advisory Board of the Institute for Freedom of Faith and Security in Europe (IFFSE).",
+                  "type": "external",
+                  "site": "https://www.iffse.eu/about/advisory-board/dr-dritan-abazovic/"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
