@@ -23,10 +23,9 @@
         {
           "sentences": [
             {
-              "text": "Zdravko Krivokapić (, ; born 4 September 1957) is a Montenegrin mechanical engineering professor, writer, and politician serving as prime minister of Montenegro since December 2020.",
+              "text": "Zdravko Krivokapić (, ; born 2 September 1958) is a Montenegrin mechanical engineering professor, writer, and politician serving as the Prime Minister of Montenegro since 4 December 2020.",
               "links": [
                 {
-                  "text": "prime minister of Montenegro",
                   "type": "internal",
                   "page": "Prime Minister of Montenegro"
                 }
@@ -36,44 +35,29 @@
                   "Zdravko Krivokapić"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Krivokapić was born in Nikšić, FPR Yugoslavia.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nikšić"
-                },
-                {
-                  "type": "internal",
-                  "page": "FPR Yugoslavia"
-                }
-              ]
             },
             {
-              "text": "In 1981, he graduated from the Faculty of Mechanical Engineering, and later he began working as a professor in multiple universities."
-            },
-            {
-              "text": "He entered politics during the 2019 and 2020 protests and shortly after he and other professors and intellectuals founded the \"We won't give up Montenegro\" political organization which opposed the controversial religion law that targeted the legal status and the property of the Serbian Orthodox Church.",
+              "text": "In addition to his professorship at the Universities of Montenegro and East Sarajevo, he is one of the founders of the non-governmental organization called \"We won't give up Montenegro\", which was founded by Montenegrin professors and intellectuals in support of the Serbian Orthodox Church in Montenegro after a controversial religion law targeted the legal status and the property of the Church.",
               "links": [
                 {
-                  "text": "2019",
+                  "text": "Universities of Montenegro",
                   "type": "internal",
-                  "page": "2019 Montenegrin anti-corruption protests"
+                  "page": "University of Montenegro"
                 },
                 {
-                  "text": "2020 protests",
+                  "text": "East Sarajevo",
                   "type": "internal",
-                  "page": "2019–2020 clerical protests in Montenegro"
+                  "page": "University of East Sarajevo"
                 },
                 {
                   "text": "We won't give up Montenegro",
                   "type": "internal",
                   "page": "Ne damo Crnu Goru"
+                },
+                {
+                  "text": "Serbian Orthodox Church in Montenegro",
+                  "type": "internal",
+                  "page": "Metropolitanate of Montenegro and the Littoral"
                 },
                 {
                   "text": "controversial religion law",
@@ -82,15 +66,12 @@
                   "anchor": "Passing the law and unrests"
                 },
                 {
+                  "text": "the Church",
                   "type": "internal",
                   "page": "Serbian Orthodox Church"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In August 2020, he was chosen as the ballot representative for the For the Future of Montenegro list which placed second in the 2020 parliamentary election.",
               "links": [
@@ -124,7 +105,7 @@
               ]
             },
             {
-              "text": "Krivokapić, who headed a right-wing populist list in the election, later affiliated himself with the centrist Democratic Montenegro party, and he himself has been ideologically described as a Christian democrat.",
+              "text": "Krivokapić, who headed a mainly right-wing populist list in the election, later affiliated himself with the centrist Democratic Montenegro of the President of the Parliament Aleksa Bečić, and he himself has been ideologically described as a moderate Christian democrat.",
               "links": [
                 {
                   "text": "right-wing populist",
@@ -136,7 +117,7 @@
                   "page": "Democratic Montenegro"
                 },
                 {
-                  "text": "Christian democrat",
+                  "text": "moderate Christian democrat",
                   "type": "internal",
                   "page": "Christian democracy"
                 }
@@ -164,9 +145,9 @@
           "template": "collapsed infobox section end"
         },
         {
-          "year": "1957",
+          "year": "1958",
           "month": "09",
-          "day": "04",
+          "day": "02",
           "df": "yes",
           "template": "birth date and age"
         },
@@ -184,16 +165,13 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Zdravko Krivokapić"
-          },
-          "native_name": {
-            "text": "Здравко Кривокапић"
-          },
-          "native_name_lang": {
-            "text": "cnr"
+            "text": "Zdravko Krivokapić\nЗдравко Кривокапић"
           },
           "image": {
             "text": "Zdravko Krivokapić, June 2021.jpg"
+          },
+          "image_size": {
+            "text": "200px"
           },
           "caption": {
             "text": "Krivokapić in June 2021"
@@ -248,10 +226,7 @@
             ]
           },
           "term_start1": {
-            "text": "17 June 2021"
-          },
-          "term_end1": {
-            "text": "1 July 2021"
+            "text": "24 January 2022"
           },
           "primeminister1": {
             "text": "Himself",
@@ -262,15 +237,6 @@
             }
           },
           "predecessor1": {
-            "text": "Vladimir Leposavić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Leposavić"
-              }
-            ]
-          },
-          "successor1": {
             "text": "Sergej Sekulović (acting)",
             "links": [
               {
@@ -279,7 +245,39 @@
               }
             ]
           },
-          "office2": {
+          "term_start2": {
+            "text": "17 June 2021"
+          },
+          "term_end2": {
+            "text": "1 July 2021"
+          },
+          "primeminister2": {
+            "text": "Himself",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "predecessor2": {
+            "text": "Vladimir Leposavić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vladimir Leposavić"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Sergej Sekulović (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergej Sekulović"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of Parliament",
             "links": [
               {
@@ -289,13 +287,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "23 September 2020"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "4 December 2020"
           },
-          "president2": {
+          "president3": {
             "text": "Miodrag Lekić (acting)\nAleksa Bečić",
             "links": [
               {
@@ -308,34 +306,36 @@
               }
             ]
           },
-          "1blankname2": {
+          "1blankname3": {
             "text": "Representing"
           },
-          "1namedata2": {
-            "text": "For the Future of Montenegro",
+          "1namedata3": {
+            "text": "For the Future",
             "links": [
               {
+                "text": "For the Future",
                 "type": "internal",
                 "page": "For the Future of Montenegro"
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Chairman of Ne damo Crnu Goru",
             "links": [
               {
+                "text": "Chairman of Ne damo Crnu Goru",
                 "type": "internal",
                 "page": "Ne damo Crnu Goru"
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "9 July 2020"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "1 August 2020"
           },
-          "deputy3": {
+          "deputy4": {
             "text": "Ratko Mitrović",
             "links": [
               {
@@ -344,7 +344,7 @@
               }
             ]
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Post established",
             "formatting": {
               "italic": [
@@ -352,7 +352,7 @@
               ]
             }
           },
-          "successor3": {
+          "successor4": {
             "text": "Vesna Bratić",
             "links": [
               {
@@ -361,14 +361,57 @@
               }
             ]
           },
-          "party": {
-            "text": "SKJ (1976–1991) Independent (2020–present)",
+          "office5": {
+            "text": "President of the Board of directors of the Accreditation Body of Montenegro",
             "links": [
               {
-                "text": "SKJ",
+                "text": "President of the Board of directors",
                 "type": "internal",
-                "page": "League of Communists of Yugoslavia"
+                "page": "President (corporate title)"
               },
+              {
+                "text": "Accreditation Body of Montenegro",
+                "type": "internal",
+                "page": "International Accreditation Forum"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "October 2007"
+          },
+          "term_end5": {
+            "text": "September 2016"
+          },
+          "president5": {
+            "text": "Filip Vujanović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filip Vujanović"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Željko Šturanović Milo Đukanović Igor Lukšić",
+            "links": [
+              {
+                "text": "Željko Šturanović",
+                "type": "internal",
+                "page": "Željko Šturanović"
+              },
+              {
+                "type": "internal",
+                "page": "Milo Đukanović"
+              },
+              {
+                "type": "internal",
+                "page": "Igor Lukšić"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
               {
                 "text": "Independent",
                 "type": "internal",
@@ -380,19 +423,14 @@
             "text": "Ne damo Crnu Goru (2020–)\nFor the Future (in 2020)"
           },
           "birth_date": {
-            "text": "September 4, 1957"
+            "text": "September 2, 1958"
           },
           "birth_place": {
-            "text": "Nikšić, PR Montenegro, FPR Yugoslavia",
+            "text": "Nikšić, FPR Yugoslavia\n(now Montenegro)",
             "links": [
               {
                 "type": "internal",
                 "page": "Nikšić"
-              },
-              {
-                "text": "PR Montenegro",
-                "type": "internal",
-                "page": "Socialist Republic of Montenegro"
               },
               {
                 "text": "FPR Yugoslavia",
@@ -430,17 +468,31 @@
             ]
           },
           "profession": {
-            "text": "Professor"
+            "text": "Professor, politician"
           },
           "children": {
             "text": "5",
             "number": 5
           },
           "nationality": {
-            "text": "Montenegrin"
+            "text": "Montenegrin",
+            "links": [
+              {
+                "text": "Montenegrin",
+                "type": "internal",
+                "page": "Montenegro"
+              }
+            ]
           },
           "website": {
-            "text": "https://predsjednik.gov.me/en/primeminister?alphabet=lat"
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://predsjednik.gov.me/en/primeminister?alphabet=lat"
+              }
+            ]
           },
           "signature": {
             "text": "Zdravko Krivokapić signature vectorized.svg"
