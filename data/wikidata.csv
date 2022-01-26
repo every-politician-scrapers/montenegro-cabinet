@@ -2,7 +2,6 @@ wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,p
 Q101225458,Milojko Spajić,Milojko Spajić,male,1988-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740239,ministar finansija i socijalnog staranja,2020-12-02,Q101225458-3b71110e-4ed5-8094-b001-35a8c2c4ddf5
 Q101229810,Đorđe Radulović,Đorđe Radulović,male,1984-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740254,ministar vanjskih poslova,2020-12-04,Q101229810-167E7B34-C601-4E28-93C5-FD041555B72C
 Q103824558,Sergej Sekulović,Sergej Sekulović,male,1978-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740231,ministar unutrašnjih poslova,2020-12-04,Q103824558-628ecc8e-435c-ba0e-5704-bf4fa530be0d
-Q103824558,Sergej Sekulović,Sergej Sekulović,male,1978-01-01,9,,,Q107740265,,2021-06-30,Q103824558-769FE82A-38D2-489A-9FFD-009C5CF50C8F
 Q104417661,Jakov Milatović,Jakov Milatović,male,1983-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q109848471,ministar ekonomskog razvoja,2020-12-04,Q104417661-5BA022C5-5078-4312-9740-40389E5004CC
 Q104417662,Tamara Srzentić,Tamara Srzentić,female,1982-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740261,"ministarka javne uprave, digitalnog društva i medija",2020-12-04,Q104417662-317CC527-51CB-4A76-9821-2043D15B420F
 Q104519289,Vesna Bratić,Vesna Bratić,female,1977-05-25,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740236,"ministarka prosvjete, nauke, kulture i sporta",2020-12-04,Q104519289-f4ea5a0e-4a1c-ff94-400b-db9d92815f8c
@@ -13,3 +12,4 @@ Q107740208,Jelena Borovinić-Bojović,Jelena Borovinić-Bojović,female,1975-08-
 Q16353146,Dritan Abazović,Dritan Abazovic,male,1985-12-25,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q17073595,potpredsjednik Vlade Crne Gore,2020-12-04,Q16353146-7A591E90-B2BC-4AAC-ADB9-8390053B2BB3
 Q50703477,Mladen Bojanić,Mladen Bojanić,male,1962-11-14,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740256,ministar kapitalnih investicija,2020-12-04,Q50703477-77020749-6A68-491E-B0B4-A63A478CCFD7
 Q97999161,Zdravko Krivokapić,Zdravko Krivokapić,male,1958-09-02,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q2353252,predsjednik Vlade Crne Gore,2020-12-04,Q97999161-3C4F0D31-F778-45B3-9AD4-04413FF02ED0
+Q97999161,Zdravko Krivokapić,Zdravko Krivokapić,male,1958-09-02,11,,,Q107740265,,2022-01-24,Q97999161-CA706776-1564-4728-8ED5-A035209A31FC
