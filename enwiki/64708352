@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Zdravko Krivokapić (, ; born 2 September 1958) is a Montenegrin mechanical engineering professor, writer, and politician serving as the Prime Minister of Montenegro since 4 December 2020.",
+              "text": "Zdravko Krivokapić (born 2 September 1958) is a Montenegrin mechanical engineering professor, writer, and politician serving as the Prime Minister of Montenegro since 4 December 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -156,10 +156,6 @@
             "Здравко Кривокапић"
           ],
           "template": "lang-cyrl"
-        },
-        {
-          "transcription": "zdraʋko kriʋokapitɕ",
-          "template": "ipa"
         }
       ],
       "infoboxes": [
