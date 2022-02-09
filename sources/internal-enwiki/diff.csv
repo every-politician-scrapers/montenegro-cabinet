@@ -1,13 +1,6 @@
 @@,itemlabel,item,startdate,enddate
-+++,Pavle Bulatović,Q2616671,1991-02-15,1992-08-01
 +++,Nikola Pejaković(born 1952),,1992-08-01,1995-05-17
-+++,Filip Vujanović,Q57542,1995-05-17,1998-02-05
-+++,Vukašin Maraš(1938-2008),,1998-02-05,2001-07-02
-+++,Andrija Jovićević,,2001-07-02,2003-01-08
+->,Vukašin Maraš->Vukašin Maraš(1938-2008),Q110584323->NULL,1998-02-05,2001-07-02
+->,Q109832827->Andrija Jovićević,Q109832827->NULL,2001-07-02,2003-01-08
 +++,Milan Filipović(born 1937),,2003-01-08,2003-12-18
-+++,Dragan Đurović,Q5304918,2003-12-18,2005-10-25
-+++,Jusuf Kalamperović(born 1959),,2005-10-25,2009-06-10
-+++,Ivan Brajović,Q12752123,2009-06-10,2012-12-04
-+++,Raško Konjević,Q80850839,2012-12-04,2016-05-12
-+++,Goran Danilović,Q79642142,2016-05-12,2016-11-28
-+++,Mevludin Nuhodžić,Q99429812,2016-11-28,2020-12-04
+->,Jusuf Kalamperović->Jusuf Kalamperović(born 1959),Q110584318->NULL,2005-10-25,2009-06-10
