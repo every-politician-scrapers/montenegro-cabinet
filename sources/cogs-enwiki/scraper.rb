@@ -22,8 +22,8 @@ class OfficeholderList < OfficeholderListBase
       super.css('b')
     end
 
-    def tds
-      noko.css('td,th')
+    def empty?
+      tds[3].text == tds[4].text
     end
   end
 end
