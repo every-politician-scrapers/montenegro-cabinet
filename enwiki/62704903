@@ -1,126 +1,14 @@
 {
-  "title": "Ivan Vuković (politician)",
-  "pageID": 62704903,
-  "categories": [
-    "1984 births",
-    "Living people",
-    "Mayors of Podgorica",
-    "University of Montenegro alumni",
-    "Democratic Party of Socialists of Montenegro politicians",
-    "Montenegrin nationalists"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ivan Vuković (born 17 September 1984) is a Montenegrin politician serving as the mayor of Podgorica since 2018.",
-              "links": [
-                {
-                  "text": "Montenegrin",
-                  "type": "internal",
-                  "page": "Montenegro"
-                },
-                {
-                  "text": "mayor of Podgorica",
-                  "type": "internal",
-                  "page": "mayor of Podgorica"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ivan Vuković"
-                ]
-              }
-            },
-            {
-              "text": "Before taking office, he worked as an Assistant Professor and Vice-Dean for International Cooperation at the Faculty of Political Science in Podgorica.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Podgorica"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1984",
-          "month": "09",
-          "day": "17",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Иван Вуковић"
-          ],
-          "template": "lang-sr-cyrl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ivan Vuković\nИван Вуковић"
-          },
-          "image": {
-            "text": "Ivan-vukovic.jpg"
-          },
-          "caption": {
-            "text": "Ivan Vuković in July 2019"
-          },
-          "image_size": {
-            "text": "270px"
-          },
-          "order": {
-            "text": "43rd Mayor of Podgorica",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mayor of Podgorica"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "20 July 2018"
-          },
-          "predecessor": {
-            "text": "Migo Stijepović",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Migo Stijepović"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 17, 1984"
-          },
-          "birth_place": {
-            "text": "Titograd, Montenegro, Yugoslavia"
-          },
-          "occupation": {
-            "text": "Political scientist, politician"
-          },
-          "party": {
-            "text": "Democratic Party of Socialists",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Democratic Party of Socialists"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Montenegro (M.A.) Central European University (Ph.D.)"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ivan Vuković\nИван Вуковић",
+  "image": "Ivan-vukovic.jpg",
+  "caption": "Ivan Vuković in July 2019",
+  "image_size": "270px",
+  "order": "43rd Mayor of Podgorica",
+  "term_start": "20 July 2018",
+  "predecessor": "Migo Stijepović",
+  "birth_date": "September 17, 1984",
+  "birth_place": "Titograd, Montenegro, Yugoslavia",
+  "occupation": "Political scientist, politician",
+  "party": "Democratic Party of Socialists",
+  "alma_mater": "University of Montenegro (M.A.) Central European University (Ph.D.)"
 }
