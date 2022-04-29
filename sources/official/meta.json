@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Montenegro",
+      "id": "Q236"
+    },
+    "cabinet": {
+      "id": "Q101252425",
+      "start": "2020-12-04",
+      "parent": "Q107736267"
+    },
+    "source": {
+        "url":   "https://www.gov.me/vlada-crne-gore/sastav-vlade",
+        "title": "Sastav Vlade - Vlada Crne Gore",
+        "lang":  {
+            "code": "sh",
+            "wikidata": "Q8821"
+        }
+    },
+    "agent": "every-politican-scrapers/montenegro-cabinet"
+}
