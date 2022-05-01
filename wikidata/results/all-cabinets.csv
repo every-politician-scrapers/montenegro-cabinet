@@ -1,4 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q85817226,Đukanović VI Cabinet,2012-12-04,11,,,2016-11-28,11,,,Q85782644,Lukšić Cabinet,Q31182114,Marković Cabinet,,,,
 ,Q31182114,Marković Cabinet,2016-11-28,11,,,2020-12-02,11,,,Q85817226,Đukanović VI Cabinet,Q101252425,Krivokapić Cabinet,,,,
-,Q101252425,Krivokapić Cabinet,2020-12-04,11,,,,,,,Q31182114,Marković Cabinet,,,,,,
+,Q101252425,Krivokapić Cabinet,2020-12-04,11,,,2022-04-28,11,,,Q31182114,Marković Cabinet,Q111759087,Abazović Cabinet,,,,
+,Q111759087,Abazović Cabinet,2022-04-28,11,,,,,,,Q101252425,Krivokapić Cabinet,,,,,,
