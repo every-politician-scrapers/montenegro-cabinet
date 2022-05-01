@@ -19,7 +19,6 @@ module.exports = function () {
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           OPTIONAL { ?held pq:P582 ?end }
 
-          FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           FILTER (?start < NOW())
           FILTER (!BOUND(?end) || ?end > NOW())
           FILTER NOT EXISTS { ?item wdt:P570 [] }

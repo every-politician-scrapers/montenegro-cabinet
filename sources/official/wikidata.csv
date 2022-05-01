@@ -1,15 +1,22 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
-Q101225458,Milojko Spajić,Milojko Spajić,male,1988-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740239,ministar finansija i socijalnog staranja,2020-12-02,Q101225458-3b71110e-4ed5-8094-b001-35a8c2c4ddf5
-Q101229810,Đorđe Radulović,Đorđe Radulović,male,1984-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740254,ministar vanjskih poslova,2020-12-04,Q101229810-167E7B34-C601-4E28-93C5-FD041555B72C
-Q103824558,Sergej Sekulović,Sergej Sekulović,male,1978-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740231,ministar unutrašnjih poslova,2020-12-04,Q103824558-628ecc8e-435c-ba0e-5704-bf4fa530be0d
-Q104417661,Jakov Milatović,Jakov Milatović,male,1983-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q109848471,ministar ekonomskog razvoja,2020-12-04,Q104417661-5BA022C5-5078-4312-9740-40389E5004CC
-Q104417662,Tamara Srzentić,Tamara Srzentić,female,1982-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740261,"ministarka javne uprave, digitalnog društva i medija",2020-12-04,Q104417662-317CC527-51CB-4A76-9821-2043D15B420F
-Q104519289,Vesna Bratić,Vesna Bratić,female,1977-05-25,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740236,"ministarka prosvjete, nauke, kulture i sporta",2020-12-04,Q104519289-f4ea5a0e-4a1c-ff94-400b-db9d92815f8c
-Q104597629,Olivera Injac,Olivera Injac,female,1976-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740257,ministarka odbrane,2020-12-04,Q104597629-4E22CBAD-1F2C-42CD-B0D1-A84C4D7866E3
-Q105585422,Aleksandar Stijović,Aleksandar Stijović,male,1981-01-27,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740253,"ministar poljoprivrede, šumarstva i vodoprivrede",2020-12-04,Q105585422-269B3B7A-5DE4-4919-9B8F-B2CC4FC546C9
-Q107402198,Ratko Mitrović,Ratko Mitrović,male,1956-01-01,9,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740259,"ministar ekologije, prostornog planiranja i urbanizma",2020-12-04,Q107402198-F9F787D5-C7D5-46ED-9D5F-20481F005870
-Q107740208,Jelena Borovinić-Bojović,Jelena Borovinić-Bojović,female,1975-08-29,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740255,ministarka zdravlja,2020-12-04,Q107740208-9B7B9C5F-9291-42BA-AD86-EC68F401BA70
-Q16353146,Dritan Abazović,Dritan Abazovic,male,1985-12-25,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q17073595,potpredsjednik Vlade Crne Gore,2020-12-04,Q16353146-7A591E90-B2BC-4AAC-ADB9-8390053B2BB3
-Q50703477,Mladen Bojanić,Mladen Bojanić,male,1962-11-14,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q107740256,ministar kapitalnih investicija,2020-12-04,Q50703477-77020749-6A68-491E-B0B4-A63A478CCFD7
-Q97999161,Zdravko Krivokapić,Zdravko Krivokapić,male,1958-09-02,11,https://www.gov.me/vlada-crne-gore/sastav-vlade,2021-12-01,Q2353252,predsjednik Vlade Crne Gore,2020-12-04,Q97999161-3C4F0D31-F778-45B3-9AD4-04413FF02ED0
-Q97999161,Zdravko Krivokapić,Zdravko Krivokapić,male,1958-09-02,11,,,Q107740265,,2022-01-24,Q97999161-CA706776-1564-4728-8ED5-A035209A31FC
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q111754613,Jovana Marović,Jovana Marović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednica Vlade i ministarka...,2022-04-28,Q111754613-B858883B-C402-474B-BF85-2C653B4BA08C
+Q111781550,Ana Novaković Đurović,Ana Novaković Đurović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q107740259,ministarka ekologije...,2022-04-28,Q111781550-f4c6628d-48b1-ed2f-8e5a-9519bbebe70b
+Q111795393,Biljana Šćepanović,Biljana Šćepanović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795394,ministarka nauke i tehnološkog razvoj,2022-04-28,Q111795393-1E48EC60-C225-4D23-8FCF-D8B47722B027
+Q111795401,Fatmir Đeka,Fatmir Đeka,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795402,ministar Ijudskih i manjinskih prava,2022-04-28,Q111795401-64A0E7C1-796E-41FA-93E6-EAED137F4A33
+Q111795411,Admir Adrović,Admir Adrović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795412,ministar rada i socijalnog staranja,2022-04-28,Q111795411-C09132C8-C14D-4093-A44A-53993B150213
+Q111795538,Miomir Mijo Vojinović,Miomir Mijo Vojinović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795539,minlstar prosvjete,2022-04-28,Q111795538-3008B693-9B4E-41B0-B34B-39A42BA70BBC
+Q111795543,Maša Vlaović,Maša Vlaović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795544,ministarka kulture i medija,2022-04-28,Q111795543-86835914-7D61-4933-B764-4A04C7B3DA51
+Q111795545,Dragoslav Šćekić,Dragoslav Šćekić,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q107740255,ministar zdravlja,2022-04-28,Q111795545-232AE54E-0BC1-4865-998A-CE4A73706FAB
+Q111795549,Filip Adžić,Filip Adžić,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q107740231,ministar unutrašnjih poslova,2022-04-28,Q111795549-8876AEB0-4EF9-4FEE-8C62-33653701E199
+Q111795550,Vasilije Lalošević,Vasilije Lalošević,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795551,ministar sporta i mladih,2022-04-28,Q111795550-9C4637CE-9CE5-4767-9065-FEDA5B99DBAA
+Q111795565,Marko Kovač,Marko Kovač,,,Q106351852,"Ministar pravde, ljudskih i manjinskih prava",2022-04-28,Q111795565-4EAAF53D-EF02-442E-9CCA-A5452D8EE131
+Q111795569,Maraš Dukaj,Maraš Dukaj,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q107740261,ministar javne uprave,2022-04-28,Q111795569-DDEA887B-34C1-4C84-BA48-CA74BDE1D48D
+Q111795570,Aleksandar Damjanović,Aleksandar Damjanović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795571,ministar finansija,2022-04-28,Q111795570-E4C66F6B-004A-4993-847F-866A0EEFEDAC
+Q111795573,Goran Đurović,Goran Đurović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795574,ministar ekonomskog razvoja i turizma,2022-04-28,Q111795573-2D31998C-7130-4EC0-A652-6FDAD83FB56E
+Q111795576,Adrijan Vuksanović,Adrijan Vuksanović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795577,ministar bez portfelja,2022-04-28,Q111795576-8BD19AD0-F6B1-45AD-B424-536CEBD67E2E
+Q111795585,Zoran Miljanić,Zoran Miljanić,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795577,ministar bez portfelja,2022-04-28,Q111795585-F877B7E2-E8E5-466B-826A-50F9491E76F4
+Q16353146,Dritan Abazović,Dritan Abazovic,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q2353252,predsjednik Vlade,2022-04-28,Q16353146-38C5CC59-434C-427A-8E84-4A8F0434A500
+Q2631716,Ranko Krivokapić,Ranko Krivokapić,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q107740254,ministar vanjskih poslova,2022-04-28,Q2631716-194DB237-0056-460E-BA61-443D9739CCBD
+Q36384401,Vladimir Joković,Vladimir Joković,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade i ministar...,2022-04-28,Q36384401-7BFE8C56-BBEB-445E-887A-2DB08A4553F7
+Q65499722,Ervin Ibrahimović,Ervin Ibrahimović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade i ministar...,2022-04-28,Q65499722-93D9D3E5-E49C-41A0-B74E-507A498FD103
+Q80850839,Raško Konjević,Raško Konjević,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade i ministar...,2022-04-28,Q80850839-D30D4CDE-BFDE-4CD0-86F0-E44BD2594828
