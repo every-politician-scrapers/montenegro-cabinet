@@ -1,10 +1,10 @@
 {
   "name": "Dritan Abazović",
-  "native_name": "Dritan Abazović",
+  "native_name": "Дритан Абазовић",
   "native_name_lang": "cnr",
   "birth_date": "December 25, 1985",
   "birth_place": "Ulcinj, SR Montenegro, SFR Yugoslavia",
-  "office": "Prime Minister of Montenegro",
+  "office": "7th Prime Minister of Montenegro",
   "term_start": "28 April 2022",
   "president": "Milo Đukanović",
   "predecessor": "Zdravko Krivokapić",
@@ -19,5 +19,6 @@
   "president2": "Ranko Krivokapić\n\nDarko Pajović\n\nIvan Brajović\n\nAleksa Bečić",
   "alma_mater": "University of Sarajevo\n\nUniversity of Montenegro",
   "party": "PCG (2012–2014)\n\nURA (2015–present)",
-  "profession": "Politician"
+  "profession": "Politician",
+  "website": "Official website"
 }
