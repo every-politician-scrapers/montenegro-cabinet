@@ -8,19 +8,35 @@ require 'pry'
 class MemberList
   class Member
     def name
-      Name.new(full: noko['title'], prefixes: %w[Msc prof. dr mr MS MBA PhD]).short
+      Name.new(full: title, prefixes: %w[Msc prof. dr mr MS MBA PhD]).short
     end
 
     def position
-      return noko['function'] unless noko['function'] =~ /^ministar(ka)?$/
+      return function unless function =~ /^ministar(ka)?$/
 
-      body.sub('Ministarstvo', noko['function'])
+      body.sub('Ministarstvo', function)
     end
 
     private
 
     def body
       noko['organizational_unit']['title']
+    end
+
+    def function
+      return noko['function'] if position?
+
+      noko['title'].split(', ', 2).last
+    end
+
+    def title
+      return noko['title'] if position?
+
+      noko['title'].split(', ', 2).first
+    end
+
+    def position?
+      !noko['function'].to_s.empty?
     end
   end
 
