@@ -18,12 +18,8 @@ class OfficeholderList < OfficeholderListBase
       %w[color name party start end].freeze
     end
 
-    def empty?
-      tds[1].text == tds[3].text
-    end
-
-    def tds
-      noko.css('td,th')
+    def ignore_before
+      1991
     end
   end
 end
