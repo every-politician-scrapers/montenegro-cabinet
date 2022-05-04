@@ -1,5 +1,6 @@
 wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
-Q111754613,Jovana Marović,Jovana Marović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednica Vlade i ministarka...,2022-04-28,Q111754613-B858883B-C402-474B-BF85-2C653B4BA08C
+Q111754613,Jovana Marović,Jovana Marović,,,Q111826217,,2022-04-28,Q111754613-1B34307E-E70C-405D-8B8E-0214FF19B880
+Q111754613,Jovana Marović,Jovana Marović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednica Vlade,2022-04-28,Q111754613-B858883B-C402-474B-BF85-2C653B4BA08C
 Q111781550,Ana Novaković Đurović,Ana Novaković Đurović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q107740259,ministarka ekologije...,2022-04-28,Q111781550-f4c6628d-48b1-ed2f-8e5a-9519bbebe70b
 Q111795393,Biljana Šćepanović,Biljana Šćepanović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795394,ministarka nauke i tehnološkog razvoj,2022-04-28,Q111795393-1E48EC60-C225-4D23-8FCF-D8B47722B027
 Q111795401,Fatmir Đeka,Fatmir Đeka,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795402,ministar Ijudskih i manjinskih prava,2022-04-28,Q111795401-64A0E7C1-796E-41FA-93E6-EAED137F4A33
@@ -17,6 +18,9 @@ Q111795576,Adrijan Vuksanović,Adrijan Vuksanović,https://www.gov.me/vlada-crne
 Q111795585,Zoran Miljanić,Zoran Miljanić,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q111795577,ministar bez portfelja,2022-04-28,Q111795585-F877B7E2-E8E5-466B-826A-50F9491E76F4
 Q16353146,Dritan Abazović,Dritan Abazovic,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q2353252,predsjednik Vlade,2022-04-28,Q16353146-38C5CC59-434C-427A-8E84-4A8F0434A500
 Q2631716,Ranko Krivokapić,Ranko Krivokapić,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q107740254,ministar vanjskih poslova,2022-04-28,Q2631716-194DB237-0056-460E-BA61-443D9739CCBD
-Q36384401,Vladimir Joković,Vladimir Joković,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade i ministar...,2022-04-28,Q36384401-7BFE8C56-BBEB-445E-887A-2DB08A4553F7
-Q65499722,Ervin Ibrahimović,Ervin Ibrahimović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade i ministar...,2022-04-28,Q65499722-93D9D3E5-E49C-41A0-B74E-507A498FD103
-Q80850839,Raško Konjević,Raško Konjević,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade i ministar...,2022-04-28,Q80850839-D30D4CDE-BFDE-4CD0-86F0-E44BD2594828
+Q36384401,Vladimir Joković,Vladimir Joković,,,Q107740253,,2022-04-28,Q36384401-759B7E3D-D4EF-452D-B2A3-8EDC40B9D68A
+Q36384401,Vladimir Joković,Vladimir Joković,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade,2022-04-28,Q36384401-7BFE8C56-BBEB-445E-887A-2DB08A4553F7
+Q65499722,Ervin Ibrahimović,Ervin Ibrahimović,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade,2022-04-28,Q65499722-93D9D3E5-E49C-41A0-B74E-507A498FD103
+Q65499722,Ervin Ibrahimović,Ervin Ibrahimović,,,Q107740256,,2022-04-28,Q65499722-9DB62C10-C975-4A05-8EA5-ABFB11BC98E3
+Q80850839,Raško Konjević,Raško Konjević,,,Q107740257,,2022-04-28,Q80850839-292844B6-FF93-40AA-B602-81EBE6A473C3
+Q80850839,Raško Konjević,Raško Konjević,https://www.gov.me/vlada-crne-gore/sastav-vlade,2022-05-01,Q17073595,potpredsjednik Vlade,2022-04-28,Q80850839-D30D4CDE-BFDE-4CD0-86F0-E44BD2594828

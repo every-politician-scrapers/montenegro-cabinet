@@ -7,14 +7,20 @@ require 'pry'
 
 class MemberList
   class Member
+    # These are hidden behind "..." on the site, so sub them in until they fix that.
+    HIDDEN_POSITION = {
+      'Jovana Marović'    => ' «European Affairs»',
+      'Vladimir Joković'  => ' «Agriculture, Forestry and Water Management»',
+      'Raško Konjević'    => ' «Defence»',
+      'Ervin Ibrahimović' => ' «Capital Investments»',
+    }.freeze
+
     def name
       Name.new(full: title, prefixes: %w[Msc prof. dr mr MS MBA PhD]).short
     end
 
     def position
-      return function unless function =~ /^ministar(ka)?$/
-
-      body.sub('Ministarstvo', function)
+      ministerial_position.gsub('...') { HIDDEN_POSITION[name] }.split(/ i (?=ministar)/).map(&:tidy)
     end
 
     private
@@ -37,6 +43,12 @@ class MemberList
 
     def position?
       !noko['function'].to_s.empty?
+    end
+
+    def ministerial_position
+      return function unless function =~ /^ministar(ka)?$/
+
+      body.sub('Ministarstvo', function)
     end
   end
 
