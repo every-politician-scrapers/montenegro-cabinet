@@ -19,11 +19,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds[1].text == tds[3].text
-    end
-
-    def tds
-      noko.css('td,th')
+      (tds[1].text == tds[3].text) || too_early?
     end
   end
 end
