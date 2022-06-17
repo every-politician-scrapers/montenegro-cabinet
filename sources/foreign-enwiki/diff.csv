@@ -1,10 +1,4 @@
-@@,itemlabel,item,startdate,enddate
----,Milenko Stefanovic,Q108443139,1982-01-01,1985-01-01
----,Igor Jovovic,Q108443141,1985-01-01,1990-01-01
----,Branko Lukovac,Q108443143,1990-01-01,2002-01-01
-+++,Nikola Samardžić(1935-2005),,1991-02-15,1992-08-01
-+++,Miodrag Lekić,Q10944678,1992-08-01,1995-05-17
----,Janko Jeknic,Q108443145,1995-01-01,1997-01-01
-+++,Janko Jeknić(1949-1997),,1995-05-17,1997-01-17
-+++,Branko Perović(born 1959),,1997-01-17,2000-01-27
-+++,Branko Lukovac(born 1949),,2000-01-27,2003-01-08
+@@,item,itemlabel,startdate,enddate
+---,Q108443143,Branko Lukovac,1990,2002
++++,,Branko Perović(born 1959),1997-01-17,2000-01-27
++++,,Branko Lukovac(born 1949),2000-01-27,2003-01-08
