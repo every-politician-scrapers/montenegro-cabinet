@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def empty?
       (tds[1].text == tds[2].text) || too_early?
     end
-
-    def ignore_before
-      1998
-    end
   end
 end
 
