@@ -1,0 +1,443 @@
+{
+  "title": "Raško Konjević",
+  "pageID": 62733986,
+  "categories": [
+    "1979 births",
+    "Defence ministers of Montenegro",
+    "Deputy Prime Ministers of Montenegro",
+    "Finance ministers of Montenegro",
+    "Living people",
+    "Politicians from Zenica",
+    "Social Democratic Party of Montenegro politicians",
+    "University of Montenegro alumni",
+    "Interior ministers of Montenegro"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Raško Konjević (Montenegrin Cyrillic: Рашко Коњевић; born on 12 April 1979 in Zenica, Bosnia and Herzegovina) is a Montenegrin politician serving as the deputy prime minister of Montenegro and the minister of defence since 28 April 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Montenegrin Cyrillic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zenica"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bosnia and Herzegovina"
+                },
+                {
+                  "text": "deputy prime minister of Montenegro",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Montenegro"
+                },
+                {
+                  "text": "minister of defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Montenegro)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Raško Konjević"
+                ]
+              }
+            },
+            {
+              "text": "He is the current president of the centre-left Social Democratic Party (SDP).",
+              "links": [
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party of Montenegro"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as the member of the Parliament of Montenegro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Montenegro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Montenegrin politician",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "4",
+          "day": "12",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Raško Konjević"
+          },
+          "native_name": {
+            "text": "Рашко Коњевић"
+          },
+          "birth_date": {
+            "text": "April 12, 1979"
+          },
+          "birth_place": {
+            "text": "Zenica, SFR Bosnia and Herzegovina, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zenica"
+              },
+              {
+                "text": "SFR Bosnia and Herzegovina",
+                "type": "internal",
+                "page": "Socialist Republic of Bosnia and Herzegovina"
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Montenegro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Montenegro"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party of Montenegro"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of Montenegro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Montenegro"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Dritan Abazović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dritan Abazović"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 April 2022"
+          },
+          "office2": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Montenegro)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Dritan Abazović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dritan Abazović"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Olivera Injac",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Olivera Injac"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 April 2022"
+          },
+          "office3": {
+            "text": "Member of Parliament",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Montenegro"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "23 September 2021"
+          },
+          "termend3": {
+            "text": "28 April 2022"
+          },
+          "termend4": {
+            "text": "2012",
+            "number": 2012
+          },
+          "termstart4": {
+            "text": "2009",
+            "number": 2009
+          },
+          "office5": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Montenegro)"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Milo Đukanović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Milo Đukanović"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "12 May 2016"
+          },
+          "term_end5": {
+            "text": "28 November 2016"
+          },
+          "predecessor5": {
+            "text": "Radoje Žugić"
+          },
+          "successor5": {
+            "text": "Darko Radunović"
+          },
+          "office6": {
+            "text": "Minister of Internal Affairs",
+            "links": [
+              {
+                "text": "Minister of Internal Affairs",
+                "type": "internal",
+                "page": "Ministry of Internal Affairs (Montenegro)"
+              }
+            ]
+          },
+          "primeminister6": {
+            "text": "Igor Lukšić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igor Lukšić"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "4 December 2012"
+          },
+          "term_end6": {
+            "text": "12 May 2016"
+          },
+          "predecessor6": {
+            "text": "Ivan Brajović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ivan Brajović"
+              }
+            ]
+          },
+          "successor6": {
+            "text": "Goran Danilović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Goran Danilović"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Konjević graduated and obtained a master's degree at the Faculty of Economics at the University of Montenegro.",
+              "links": [
+                {
+                  "text": "Faculty of Economics at the University of Montenegro",
+                  "type": "internal",
+                  "page": "Faculty of Economics Podgorica"
+                }
+              ]
+            },
+            {
+              "text": "He was a Minister of Interior Affairs in cabinet of Igor Lukšić (2010–2012) and in 6th cabinet of Milo Đukanović (2012–16) and later Minister of Finance in provisional Government of Montenegro that lasted from May to November 2016.",
+              "links": [
+                {
+                  "text": "Minister of Interior Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Interior Affairs (Montenegro)"
+                },
+                {
+                  "text": "cabinet of Igor Lukšić",
+                  "type": "internal",
+                  "page": "Lukšić Cabinet"
+                },
+                {
+                  "text": "6th cabinet of Milo Đukanović",
+                  "type": "internal",
+                  "page": "Đukanović VI Cabinet"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Montenegro)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Montenegro"
+                }
+              ]
+            },
+            {
+              "text": "Following the October 2016 parliamentary election, he was elected Member of Parliament.",
+              "links": [
+                {
+                  "text": "October 2016 parliamentary election",
+                  "type": "internal",
+                  "page": "2016 Montenegrin parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "He was elected MP once again in 2020.",
+              "links": [
+                {
+                  "text": "2020",
+                  "type": "internal",
+                  "page": "2020 Montenegrin parliamentary election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 28 April 2022, he has been serving as the deputy prime minister of Montenegro and the minister of defence in the minority government of Dritan Abazović.",
+              "links": [
+                {
+                  "text": "deputy prime minister of Montenegro",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Montenegro"
+                },
+                {
+                  "text": "minister of defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Montenegro)"
+                },
+                {
+                  "text": "minority",
+                  "type": "internal",
+                  "page": "Minority government"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Abazović Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dritan Abazović"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Skupština Crne Gore",
+          "url": "https://www.skupstina.me/",
+          "access-date": "2022-04-30",
+          "website": "Skupština Crne Gore",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Abazović premijer, Crna Gora dobila novu Vladu - CdM",
+          "url": "https://www.cdm.me/politika/crna-gora-dobila-novu-vladu/",
+          "access-date": "2022-04-30",
+          "website": "www.cdm.me",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "ref-list"
+        },
+        {
+          "template": "montenegro-politician-stub"
+        }
+      ]
+    }
+  ]
+}

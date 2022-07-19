@@ -1,0 +1,627 @@
+{
+  "title": "Vladimir Joković",
+  "pageID": 54883288,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "Agriculture ministers of Montenegro",
+    "Deputy Prime Ministers of Montenegro",
+    "Forestry ministers of Montenegro",
+    "Government ministers of Montenegro",
+    "Montenegrin male karateka",
+    "Serbs of Montenegro",
+    "Socialist People's Party of Montenegro politicians",
+    "Water ministers of Montenegro"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": " Vladimir Joković  (Serbian Cyrillic: Владимир Јоковић; born 2 January 1967) is a Montenegrin politician, sports administrator and former karateka serving as the deputy prime minister of Montenegro and the minister of agriculture, forestry and water management since 28 April 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Serbian Cyrillic"
+                },
+                {
+                  "text": "Montenegrin",
+                  "type": "internal",
+                  "page": "Montenegrins"
+                },
+                {
+                  "text": "karateka",
+                  "type": "internal",
+                  "page": "karate"
+                },
+                {
+                  "text": "deputy prime minister of Montenegro",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Montenegro"
+                },
+                {
+                  "text": "minister of agriculture, forestry and water management",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture and Rural development (Montenegro)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  " Vladimir Joković "
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the current leader of the Socialist People's Party (SNP), since August 2017, and served as the member of the Parliament of Montenegro, elected from the For the Future of Montenegro (ZBCG) common electoral list, at the 2020 parliamentary election.",
+              "links": [
+                {
+                  "text": "Socialist People's Party",
+                  "type": "internal",
+                  "page": "Socialist People's Party of Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "For the Future of Montenegro"
+                },
+                {
+                  "text": "2020 parliamentary election",
+                  "type": "internal",
+                  "page": "2020 Montenegrin parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "He also currently serve as the President of the Assembly of the Karate Federation of Montenegro, since 2019, he previously served as President of the Federation.",
+              "links": [
+                {
+                  "text": "Karate Federation of Montenegro",
+                  "type": "internal",
+                  "page": "European Karate Federation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Montenegrin politician and former karatista",
+          "template": "short description"
+        },
+        {
+          "year": "1967",
+          "month": "1",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "template": "medalbox"
+        },
+        {
+          "list": [
+            "Men's karate"
+          ],
+          "template": "medalsport"
+        },
+        {
+          "template": "scg"
+        },
+        {
+          "template": "medalcountry"
+        },
+        {
+          "list": [
+            "Competition",
+            "European Championship"
+          ],
+          "template": "medal"
+        },
+        {
+          "list": [
+            "1994 Birmingham",
+            "Kumite +80 kg"
+          ],
+          "template": "medalsilver"
+        },
+        {
+          "template": "medalbottom"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vladimir Joković\nВладимир Јоковић"
+          },
+          "image": {
+            "text": "Vladimir Joković in Podgorica, February 2019.jpg"
+          },
+          "image_size": {
+            "text": "170px"
+          },
+          "caption": {
+            "text": "Vladimir Joković in Podgorica, February 2019",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Podgorica"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 2, 1967"
+          },
+          "birth_place": {
+            "text": "Plužine, SFR Yugoslavia (now Montenegro)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Plužine"
+              },
+              {
+                "type": "internal",
+                "page": "SFR Yugoslavia"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of Montenegro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Montenegro"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Dritan Abazović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dritan Abazović"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 April 2022"
+          },
+          "office2": {
+            "text": "Minister of Agriculture, Forestry and Water Management of Montenegro",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Forestry and Water Management of Montenegro",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Rural development (Montenegro)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Dritan Abazović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dritan Abazović"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Aleksandar Stijović",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aleksandar Stijović"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 April 2022"
+          },
+          "office3": {
+            "text": "Member of the Parliament of Montenegro",
+            "links": [
+              {
+                "text": "Member of the Parliament of Montenegro",
+                "type": "internal",
+                "page": "Parliament of Montenegro"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Aleksa Bečić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aleksa Bečić"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "23 September 2020"
+          },
+          "term_end3": {
+            "text": "28 April 2022"
+          },
+          "office4": {
+            "text": "President of Karate Federation of Montenegro",
+            "links": [
+              {
+                "text": "President of Karate Federation of Montenegro",
+                "type": "internal",
+                "page": "European Karate Federation"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "13 May 2017"
+          },
+          "term_end4": {
+            "text": "12 January 2019"
+          },
+          "predecessor4": {
+            "text": "Dragan Šakotić"
+          },
+          "successor4": {
+            "text": "Ivan Krstajić"
+          },
+          "nationality": {
+            "text": "Montenegrin"
+          },
+          "party": {
+            "text": "Socialist People's Party",
+            "links": [
+              {
+                "text": "Socialist People's Party",
+                "type": "internal",
+                "page": "Socialist People's Party of Montenegro"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of Montenegro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Montenegro"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician, sports administrator"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vladimir Joković was born in Plužine, small town in northwestern Montenegro, at that time part of the Socialist Republic of Montenegro of Socialist Federal Republic of Yugoslavia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Plužine"
+                },
+                {
+                  "text": "northwestern Montenegro",
+                  "type": "internal",
+                  "page": "Regions of Montenegro",
+                  "anchor": "Northern Region"
+                },
+                {
+                  "type": "internal",
+                  "page": "Socialist Republic of Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Socialist Federal Republic of Yugoslavia"
+                }
+              ]
+            },
+            {
+              "text": "Having finished elementary and Electrotechnical High school in Nikšić.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nikšić"
+                }
+              ]
+            },
+            {
+              "text": "He is married and has two daughter and son."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Sports career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He represented FR Yugoslavia from 1991 to 2000.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "FR Yugoslavia"
+                }
+              ]
+            },
+            {
+              "text": "He has won many awards for his sportsmanship."
+            },
+            {
+              "text": "He is one of the most famous karate masters from Montenegro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Montenegro"
+                }
+              ]
+            },
+            {
+              "text": "He has a 4th Dan black belt in karate and is the winner of multiple national Serbia and Montenegro and regional Balkans Karate Championships.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Serbia and Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Balkans"
+                }
+              ]
+            },
+            {
+              "text": "In May 2017 Joković became the president of the Montenegrin Karate Federation."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joković has been a member of the Socialist People's Party of Montenegro (SNP) since the 1990s.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Socialist People's Party of Montenegro"
+                }
+              ]
+            },
+            {
+              "text": "After Socialist People's Party President Srđan Milić resignation after 11 years of leading party for a catastrophically poor results at 2016 parliamentary elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Srđan Milić"
+                },
+                {
+                  "text": "2016 parliamentary elections",
+                  "type": "internal",
+                  "page": "2016 Montenegrin parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "Joković, supported by party faction led by former president of party parliamentary club Aleksandar Damjanović and current mayor of Berane Dragoslav Šćekić, was surprisingly elected President of the party at SNP's eight congress held on 13 August 2017, in front of favored Snežana Jonica, supported by fraction close to former party leader Milić.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Berane"
+                }
+              ]
+            },
+            {
+              "text": "Prior to the party's congress in August 2017, Joković was a member of the SNP municipal board in Plužine, as well as one of the party's councilors in the local parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Plužine"
+                },
+                {
+                  "text": "local parliament",
+                  "type": "internal",
+                  "page": "Plužine Municipality",
+                  "anchor": "Local parliament"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 1 May 2019 SNP sign an agreement with Independent parliamentary group of Parliament of Montenegro composed of United Montenegro (UCG), Workers' Party (RP) and two independent MPs, including former SNP high-ranking member Aleksandar Damjanović, forming new catch-all alliance named For the Benefit of All",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Montenegro"
+                },
+                {
+                  "text": "Workers' Party",
+                  "type": "internal",
+                  "page": "Workers' Party (Montenegro)"
+                },
+                {
+                  "type": "internal",
+                  "page": "For the Benefit of All"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Aleksandar Damjanović"
+                ]
+              }
+            },
+            {
+              "text": "Alliance eventually dissolved prior the parliamentary election in August 2020, all three parties decided to join a pre-election coalition with right-wing Democratic Front (DF) alliance, under the name For the Future of Montenegro, employing a more significant cultural and socially conservative discourse, supporting 2019-2020 clerical protests in Montenegro and Serbian Orthodox Church rights in Montenegro.",
+              "links": [
+                {
+                  "text": "parliamentary election in August 2020",
+                  "type": "internal",
+                  "page": "2020 Montenegrin parliamentary election"
+                },
+                {
+                  "text": "Democratic Front",
+                  "type": "internal",
+                  "page": "Democratic Front (Montenegro)"
+                },
+                {
+                  "type": "internal",
+                  "page": "For the Future of Montenegro"
+                },
+                {
+                  "text": "cultural",
+                  "type": "internal",
+                  "page": "Cultural conservatism"
+                },
+                {
+                  "text": "socially conservative",
+                  "type": "internal",
+                  "page": "socially conservative"
+                },
+                {
+                  "text": "2019-2020 clerical protests in Montenegro",
+                  "type": "internal",
+                  "page": "2019-2020 clerical protests in Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Serbian Orthodox Church"
+                }
+              ]
+            },
+            {
+              "text": "As the leader of SNP, Joković received the fifth position on the combined electoral list and was elected to the Parliament of Montenegro after the coalition won 32.55% of popular vote and 27 MPs (in the 81-seat parliament of Montenegro).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Montenegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 28 April 2022, he has been serving as the minister of agriculture, forestry and water management in the minority government of Dritan Abazović.",
+              "links": [
+                {
+                  "text": "minister of agriculture, forestry and water management",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture and Rural development (Montenegro)"
+                },
+                {
+                  "text": "minority",
+                  "type": "internal",
+                  "page": "Minority government"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Abazović Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dritan Abazović"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Nova lica i politički veterani u novom sazivu Skupštine",
+          "language": "sr",
+          "work": "vijesti.me",
+          "url": "https://www.vijesti.me/vijesti/politika/466787/nova-lica-i-politicki-veterani-u-novom-sazivu-skupstine",
+          "access-date": "2020-09-07",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Abazović premijer, Crna Gora dobila novu Vladu - CdM",
+          "url": "https://www.cdm.me/politika/crna-gora-dobila-novu-vladu/",
+          "access-date": "2022-04-29",
+          "website": "www.cdm.me",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

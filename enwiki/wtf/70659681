@@ -1,0 +1,395 @@
+{
+  "title": "Danijela Đurović",
+  "pageID": 70659681,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "People from Kotor",
+    "Socialist People's Party of Montenegro politicians",
+    "Members of the Parliament of Montenegro",
+    "University of Belgrade alumni",
+    "University of Montenegro alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Danijela Đurović (born 27 March 1973) is a Montenegrin politician serving as the president of the Parliament of Montenegro since 28 April 2022.",
+              "links": [
+                {
+                  "text": "president of the Parliament of Montenegro",
+                  "type": "internal",
+                  "page": "president of the Parliament of Montenegro"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Danijela Đurović"
+                ]
+              }
+            },
+            {
+              "text": "She was a vice president of the Socialist People's Party (SNP) from 2017 to 2021.",
+              "links": [
+                {
+                  "text": "Socialist People's Party",
+                  "type": "internal",
+                  "page": "Socialist People's Party of Montenegro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Montenegrin politician",
+          "template": "short description"
+        },
+        {
+          "year": "1973",
+          "month": "3",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Данијела Ђуровић"
+          ],
+          "template": "lang-cyrl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Danijela Đurović"
+          },
+          "image": {
+            "text": "2022 Danijela Đurovićin (sq cropped) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Đurović in June 2022"
+          },
+          "birth_date": {
+            "text": "March 27, 1973"
+          },
+          "birth_place": {
+            "text": "Kotor, SR Montenegro, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kotor"
+              },
+              {
+                "type": "internal",
+                "page": "SR Montenegro"
+              },
+              {
+                "type": "internal",
+                "page": "SFR Yugoslavia"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of the Parliament of Montenegro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Parliament of Montenegro"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 April 2022"
+          },
+          "predecessor1": {
+            "text": "Strahinja Bulajić (acting) Aleksa Bečić",
+            "links": [
+              {
+                "text": "Strahinja Bulajić",
+                "type": "internal",
+                "page": ":sr:Strahinja Bulajić"
+              },
+              {
+                "type": "internal",
+                "page": "Aleksa Bečić"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Parliament of Montenegro",
+            "links": [
+              {
+                "text": "Member of the Parliament of Montenegro",
+                "type": "internal",
+                "page": "Parliament of Montenegro"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 September 2020"
+          },
+          "term_end2": {
+            "text": "28 April 2022"
+          },
+          "president2": {
+            "text": "Aleksa Bečić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aleksa Bečić"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Belgrade University of Montenegro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Belgrade"
+              },
+              {
+                "type": "internal",
+                "page": "University of Montenegro"
+              }
+            ]
+          },
+          "party": {
+            "text": "SNP (2008–present)",
+            "links": [
+              {
+                "text": "SNP",
+                "type": "internal",
+                "page": "Socialist People's Party of Montenegro"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Montenegrin"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She was born in Kotor, SR Montenegro, SFR Yugoslavia on 27 March 1973.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kotor"
+                },
+                {
+                  "text": "SR Montenegro",
+                  "type": "internal",
+                  "page": "Socialist Republic of Montenegro"
+                },
+                {
+                  "text": "SFR Yugoslavia",
+                  "type": "internal",
+                  "page": "Socialist Federal Republic of Yugoslavia"
+                }
+              ]
+            },
+            {
+              "text": "She finished middle and part of high school in Herceg Novi, and graduated in Peoria, Illinois.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Herceg Novi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Peoria, Illinois"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She earned a bachelor's degree in management engineering from the Faculty of Organizational Sciences in Belgrade and a master's degree in ecology and environmental protection from the Faculty of Natural Sciences and Mathematics in Podgorica.",
+              "links": [
+                {
+                  "text": "Faculty of Organizational Sciences",
+                  "type": "internal",
+                  "page": "University of Belgrade Faculty of Organizational Sciences"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belgrade"
+                },
+                {
+                  "text": "Faculty of Natural Sciences and Mathematics",
+                  "type": "internal",
+                  "page": "University of Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Podgorica"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She worked in the company \"Generalmarket\" d.o.o. Belgrade as the head of the commercial service from 1996 to 2000.."
+            },
+            {
+              "text": "From 2000 to 2008, she worked in \"Čistoća\" d.o.o. Herceg Novi in the field of strategic development and improvement of the quality system, manager of the commercial sector and as an assistant director."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is the author of several scientific papers in the field of environmental protection and an expert associate and consultant in the field of waste management in the country and abroad."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-04-28",
+          "title": "Ko je Danijela Đurović nova predsjednica Skupštine Crne Gore?",
+          "url": "https://www.aktuelno.me/politika/danijela-djurovic-nova-predsjednica-skupstine-crne-gore-procitajte-biografiju/",
+          "access-date": "2022-04-29",
+          "website": "Aktuelno",
+          "language": "bs-BA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biografija Danijele Đurović",
+          "url": "https://rtcg.me/vijesti/politika/360780/biografija-danijele-djurovic-.html",
+          "access-date": "2022-04-29",
+          "website": "RTCG - Radio Televizija Crne Gore - Nacionalni javni servis",
+          "language": "cnr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She is a member of the Socialist People's Party (SNP) since 2008.",
+              "links": [
+                {
+                  "text": "Socialist People's Party",
+                  "type": "internal",
+                  "page": "Socialist People's Party of Montenegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2008 to 2012 she performed the duties of the manager of the Herceg Novi Municipality and from 2012 to 2015 she served as the first female President of the Municipal Assembly of Herceg Novi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Herceg Novi Municipality"
+                }
+              ]
+            },
+            {
+              "text": "She was elected vice president of the Municipality of Herceg Novi in 2017."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was the vice president of SNP from 2017 to 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2020 parliamentary elections, Đurović was elected to the Parliament of Montenegro as part of the For the Future of Montenegro coalition.",
+              "links": [
+                {
+                  "text": "2020 parliamentary elections",
+                  "type": "internal",
+                  "page": "2020 Montenegrin parliamentary election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Montenegro"
+                },
+                {
+                  "type": "internal",
+                  "page": "For the Future of Montenegro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 28 April 2022, Đurović was elected President of the Parliament of Montenegro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of the Parliament of Montenegro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Данијела Ђуровић изабрана за председницу црногорске Скупштине",
+          "url": "https://www.politika.rs/scc/clanak/506013/Danijela-Durovic-izabrana-za-predsednicu-crnogorske-Skupstine",
+          "access-date": "2022-04-29",
+          "website": "Politika Online",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-04-28",
+          "title": "Danijela Đurović nova predsednica Skupštine Crne Gore - Društvo - Dnevni list Danas",
+          "url": "https://www.danas.rs/vesti/drustvo/danijela-djurovic-nova-predsednica-skupstine-crne-gore/",
+          "access-date": "2022-04-29",
+          "language": "sr-RS",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
